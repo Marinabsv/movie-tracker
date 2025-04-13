@@ -1,0 +1,13 @@
+.header {
+    display: flex;
+    justify-content: center;
+    background-color: black;
+font-family: Arial, Helvetica, sans-serif;
+    &__h1{
+        color: azure;
+    }
+}
+
+.main{
+    min-height: 5562px;
+}
